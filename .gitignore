@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+
+# IDE files
+.vs/
+*.user
+*.suo
+
+# Environment variables (never commit credentials)
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
